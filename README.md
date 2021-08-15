@@ -8,6 +8,7 @@ This is application called 'Note Taker' that can be used to write and save notes
 * [Usage](#Usage)
 * [Built With](#Built-With)
 * [Installation](#Installation)
+* [Deloyed Application](#Deloyed-application)
 
 ## Usage
 * Click the "Get Started" button to start adding notes.
@@ -34,3 +35,6 @@ This is application called 'Note Taker' that can be used to write and save notes
 - Navigate to right folder.
 - Run npm install to install all dependencies.
 - To start apllication run npm start
+
+## Deloyed application
+https://infinite-wave-70308.herokuapp.com/
